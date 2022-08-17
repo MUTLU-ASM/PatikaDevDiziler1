@@ -1,0 +1,7 @@
+C:\Users\Asım Mutlu\Desktop\PatikaDev\PatikaDevDiziler2\PatikaDevDiziler2\bin\Debug\PatikaDevDiziler2.exe.config
+C:\Users\Asım Mutlu\Desktop\PatikaDev\PatikaDevDiziler2\PatikaDevDiziler2\bin\Debug\PatikaDevDiziler2.exe
+C:\Users\Asım Mutlu\Desktop\PatikaDev\PatikaDevDiziler2\PatikaDevDiziler2\bin\Debug\PatikaDevDiziler2.pdb
+C:\Users\Asım Mutlu\Desktop\PatikaDev\PatikaDevDiziler2\PatikaDevDiziler2\obj\Debug\PatikaDevDiziler2.csproj.AssemblyReference.cache
+C:\Users\Asım Mutlu\Desktop\PatikaDev\PatikaDevDiziler2\PatikaDevDiziler2\obj\Debug\PatikaDevDiziler2.csproj.CoreCompileInputs.cache
+C:\Users\Asım Mutlu\Desktop\PatikaDev\PatikaDevDiziler2\PatikaDevDiziler2\obj\Debug\PatikaDevDiziler2.exe
+C:\Users\Asım Mutlu\Desktop\PatikaDev\PatikaDevDiziler2\PatikaDevDiziler2\obj\Debug\PatikaDevDiziler2.pdb
